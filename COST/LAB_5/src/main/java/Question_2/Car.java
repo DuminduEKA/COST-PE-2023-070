@@ -18,6 +18,3 @@ public class Car extends Vehicle {
         return numberOfDays * dailyRate;
     }
 }
-
-    
-

@@ -1,4 +1,5 @@
 package Question_2;
+
 public class Bike extends Vehicle {
     // Private attributes
     private int numberOfHours;
@@ -18,5 +19,3 @@ public class Bike extends Vehicle {
         return numberOfHours * hourlyRate;
     }
 }
-    
-
